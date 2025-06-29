@@ -1,0 +1,86 @@
+[
+  {
+    "branch": "1",
+    "ip": "10.10.1.10",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass1"
+  },
+  {
+    "branch": "2",
+    "ip": "10.10.2.20",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass2"
+  },
+  {
+    "branch": "3",
+    "ip": "10.10.3.30",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass3"
+  },
+  {
+    "branch": "4",
+    "ip": "10.10.4.40",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass4"
+  },
+  {
+    "branch": "5",
+    "ip": "10.10.5.50",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass5"
+  },
+  {
+    "branch": "6",
+    "ip": "10.10.6.60",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass6"
+  },
+  {
+    "branch": "7",
+    "ip": "10.10.7.70",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass7"
+  },
+  {
+    "branch": "8",
+    "ip": "10.10.8.80",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass8"
+  },
+  {
+    "branch": "9",
+    "ip": "10.10.9.90",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass9"
+  },
+  {
+    "branch": "10",
+    "ip": "10.10.10.100",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass10"
+  },
+  {
+    "branch": "11",
+    "ip": "10.10.11.110",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass11"
+  },
+  {
+    "branch": "12",
+    "ip": "10.10.12.120",
+    "port": 80,
+    "username": "admin",
+    "password": "SecurePass12"
+  }
+]
